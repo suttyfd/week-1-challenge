@@ -1,5 +1,6 @@
 Description
-This is the Week 1 challenge. It involves viewing source code in HTML and modifying elements without changing the overall look of the website. We also created a new repository in github.
+This is the Week 1 challenge. Refactoring Code.
+It involves viewing source code in HTML and modifying elements without changing the overall look of the website. We also created a new repository in github.
 
 Installation
 N/A
